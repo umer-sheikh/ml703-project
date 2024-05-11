@@ -1,0 +1,200 @@
+Epoch: 1 
+Train Stats: 
+Train Loss = 5.0258819940856165 
+Train Time: 382.3427357673645 seconds. 
+Test Stats: 
+F1-Score: 0.0067939517695405115 
+Accuracy: 4.7% 
+Avg loss: 4.563902 
+Test Time: 61.96529722213745 seconds. 
+ 
+Epoch: 2 
+Train Stats: 
+Train Loss = 3.9398780955061294 
+Train Time: 361.8496778011322 seconds. 
+Test Stats: 
+F1-Score: 0.10223484682308921 
+Accuracy: 23.3% 
+Avg loss: 3.357846 
+Test Time: 74.48337078094482 seconds. 
+ 
+Epoch: 3 
+Train Stats: 
+Train Loss = 3.1161468025706243 
+Train Time: 347.87129068374634 seconds. 
+Test Stats: 
+F1-Score: 0.21685794361786453 
+Accuracy: 35.9% 
+Avg loss: 2.720901 
+Test Time: 62.5742609500885 seconds. 
+ 
+Epoch: 4 
+Train Stats: 
+Train Loss = 2.5585949932832546 
+Train Time: 358.48251080513 seconds. 
+Test Stats: 
+F1-Score: 0.2607593016934927 
+Accuracy: 35.2% 
+Avg loss: 3.151130 
+Test Time: 55.292723417282104 seconds. 
+ 
+Epoch: 5 
+Train Stats: 
+Train Loss = 2.110573130249148 
+Train Time: 350.70769810676575 seconds. 
+Test Stats: 
+F1-Score: 0.3750640771011823 
+Accuracy: 47.7% 
+Avg loss: 2.279444 
+Test Time: 89.8538863658905 seconds. 
+ 
+Epoch: 6 
+Train Stats: 
+Train Loss = 1.7485528008828408 
+Train Time: 365.95759677886963 seconds. 
+Test Stats: 
+F1-Score: 0.4158641355493888 
+Accuracy: 46.1% 
+Avg loss: 2.740157 
+Test Time: 60.48701524734497 seconds. 
+ 
+Epoch: 7 
+Train Stats: 
+Train Loss = 1.4531185183886526 
+Train Time: 392.1376495361328 seconds. 
+Test Stats: 
+F1-Score: 0.6032173404000291 
+Accuracy: 65.7% 
+Avg loss: 1.434332 
+Test Time: 69.70066833496094 seconds. 
+ 
+Epoch: 8 
+Train Stats: 
+Train Loss = 1.2035252942557295 
+Train Time: 366.53952503204346 seconds. 
+Test Stats: 
+F1-Score: 0.537819122202232 
+Accuracy: 57.9% 
+Avg loss: 1.882630 
+Test Time: 73.11083126068115 seconds. 
+
+Epoch: 9 
+Train Stats: 
+Train Loss = 0.9739564454988661 
+Train Time: 347.73804545402527 seconds. 
+Test Stats: 
+F1-Score: 0.7137118895280986 
+Accuracy: 73.6% 
+Avg loss: 1.119051 
+Test Time: 62.53062963485718 seconds. 
+ 
+Epoch: 10 
+Train Stats: 
+Train Loss = 0.8012343913508432 
+Train Time: 350.5615565776825 seconds. 
+Test Stats: 
+F1-Score: 0.7114676740381889 
+Accuracy: 73.5% 
+Avg loss: 1.169066 
+Test Time: 66.50108456611633 seconds. 
+ 
+Epoch: 11 
+Train Stats: 
+Train Loss = 0.6217170850385463 
+Train Time: 369.4757959842682 seconds. 
+Test Stats: 
+F1-Score: 0.7352532706921808 
+Accuracy: 75.3% 
+Avg loss: 1.195976 
+Test Time: 58.70410418510437 seconds. 
+ 
+Epoch: 12 
+Train Stats: 
+Train Loss = 0.5100669181853551 
+Train Time: 344.63207483291626 seconds. 
+Test Stats: 
+F1-Score: 0.7686377473760614 
+Accuracy: 78.1% 
+Avg loss: 1.121147 
+Test Time: 58.973188400268555 seconds. 
+ 
+Epoch: 13 
+Train Stats: 
+Train Loss = 0.41502874887731994 
+Train Time: 352.9687113761902 seconds. 
+Test Stats: 
+F1-Score: 0.801217986361065 
+Accuracy: 81.0% 
+Avg loss: 0.984396 
+Test Time: 60.71695947647095 seconds. 
+ 
+Epoch: 14 
+Train Stats: 
+Train Loss = 0.3486218895194521 
+Train Time: 348.8728654384613 seconds. 
+Test Stats: 
+F1-Score: 0.6838079617542205 
+Accuracy: 68.3% 
+Avg loss: 1.763794 
+Test Time: 62.357301235198975 seconds. 
+ 
+Epoch: 15 
+Train Stats: 
+Train Loss = 0.29620546521538005 
+Train Time: 362.1229705810547 seconds. 
+Test Stats: 
+F1-Score: 0.8075143330713913 
+Accuracy: 81.8% 
+Avg loss: 0.977894 
+Test Time: 84.3525493144989 seconds. 
+ 
+Epoch: 16 
+Train Stats: 
+Train Loss = 0.2503021018282816 
+Train Time: 364.80290365219116 seconds. 
+Test Stats: 
+F1-Score: 0.8148896263224821 
+Accuracy: 81.9% 
+Avg loss: 1.051623 
+Test Time: 82.15939664840698 seconds. 
+ 
+Epoch: 17 
+Train Stats: 
+Train Loss = 0.205006835114543 
+Train Time: 358.4148952960968 seconds. 
+Test Stats: 
+F1-Score: 0.8179510138763555 
+Accuracy: 82.6% 
+Avg loss: 0.934899 
+Test Time: 57.994771242141724 seconds. 
+ 
+Epoch: 18 
+Train Stats: 
+Train Loss = 0.19461056383692005 
+Train Time: 376.3739182949066 seconds. 
+Test Stats: 
+F1-Score: 0.8153481852548373 
+Accuracy: 82.3% 
+Avg loss: 0.962169 
+Test Time: 69.6755919456482 seconds. 
+ 
+Epoch: 19 
+Train Stats: 
+Train Loss = 0.17745918881708156 
+Train Time: 375.30547976493835 seconds. 
+Test Stats: 
+F1-Score: 0.8048819100121772 
+Accuracy: 81.5% 
+Avg loss: 1.033115 
+Test Time: 56.42264699935913 seconds. 
+ 
+Epoch: 20 
+Train Stats: 
+Train Loss = 0.15913807970121757 
+Train Time: 377.3041112422943 seconds. 
+Test Stats: 
+F1-Score: 0.8221546116635926 
+Accuracy: 82.9% 
+Avg loss: 0.997506 
+Test Time: 71.40619802474976 seconds. 
+ 
